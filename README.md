@@ -27,3 +27,17 @@ Execute no `PowerShell`:
 ```
 npx expo install expo-linear-gradient
 ```
+## React Navigator - Páginação
+Execute no `PowerShell`:
+```
+npm i @react-navigation/native
+npx expo install react-native-screens
+npm i @react-navigation/native-stack
+```
+
+## Phospor - Ícones
+Execute no `PowerShell`:
+```
+npm i --save phosphor-react-native
+npx expo install react-native-svg
+```

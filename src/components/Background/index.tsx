@@ -18,4 +18,4 @@ export function Background({ children }: Props) {
             {children}
         </ImageBackground>
     );
-}
+} 
