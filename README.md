@@ -41,3 +41,15 @@ Execute no `PowerShell`:
 npm i --save phosphor-react-native
 npx expo install react-native-svg
 ```
+
+## Clipboard - Copiar para área de transferência
+Execute no `PowerShell`:
+```
+npx expo install expo-clipboard
+```
+
+## Notifications - Notificações
+Execute no `PowerShell`:
+```
+npx expo install expo-notifications
+```
